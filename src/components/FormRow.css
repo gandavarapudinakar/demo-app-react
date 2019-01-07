@@ -1,0 +1,10 @@
+.row {
+    display: table-row;
+    margin: 10px;
+
+}
+.cell{
+    display: table-cell;
+   width: 50%;
+
+}
