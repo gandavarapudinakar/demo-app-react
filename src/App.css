@@ -1,14 +1,26 @@
-.App {
-  text-align: center;
-  width: 400px;
-  height: 400px;
-  margin: auto;
+  .App {
+    text-align: center;
+    width: 30%;
+    height: 40%;
+    margin: auto;
+    margin-top:100px ;
+  }
+  h1{
+    color: brown;
+  }
+  label{
+    display: inline-block;
+    width: 20%;
+    padding: 5%;
+    margin-right: 0px;
+  }
+  fieldset{
 
-}
+    background:beige ;
+    border-radius: 20px;
 
-label{
-  display: inline-block;
-  width: 20%;
-  padding: 10px;
-  margin-right: 0px;
-}
+  }
+  input:focus{
+    background-color: lightblue;
+
+  }
