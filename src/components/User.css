@@ -1,0 +1,13 @@
+.user{
+    background-color: darkgray;
+    padding: 10px;
+    border: white solid 1px;
+    font-size: 0.9em;
+    color: black;
+}
+div.user:hover{
+    background-color: black ;
+    color: darkgray;
+    transition: background-color 2s;
+
+}

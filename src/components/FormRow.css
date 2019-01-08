@@ -1,6 +1,6 @@
 .row {
     display: table-row;
-    margin: 10px;
+   width: 100%;
 
 }
 .cell{

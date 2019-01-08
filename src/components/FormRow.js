@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React from "react";
 import  './FormRow.css';
 const formrow=(props)=>{
     return (

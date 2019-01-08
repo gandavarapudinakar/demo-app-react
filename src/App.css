@@ -1,9 +1,8 @@
   .App {
     text-align: center;
-    width: 30%;
-    height: 40%;
     margin: auto;
-    margin-top:100px ;
+      width: 100%;
+      margin: 10px;
   }
   h1{
     color: brown;
@@ -19,6 +18,8 @@
     background:beige ;
     border-radius: 20px;
       border-spacing: 0 10px;
+      width: 30%;
+      margin: auto;
   }
   input:focus{
     background-color: lightblue;
